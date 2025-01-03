@@ -1,0 +1,56 @@
+.tes {
+  background-color: rgb(63, 63, 63);
+  background-image: url(background\ web.png);
+}
+
+ .b-a, .a-b,
+  .a-b-two {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  background-image: linear-gradient(to right, grey, red);
+  border: none;
+  width: 200px;
+  height: 30px;
+  transition: 0.20s;
+  margin-top: 70px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+}
+
+.b-a:hover, a:hover {
+  background-image: linear-gradient(to right, rgb(187, 187, 187), rgb(255, 116, 116));
+}
+
+.d-a-p {
+  vertical-align: middle;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.welcome {
+  font-family: arial;
+  font-size: 40px;
+  color: white;
+  height: 65px;
+  background-image: linear-gradient(to right, grey, red, grey);
+}
+
+.p-s-o-y {
+  color: white;
+  font-family: arial;
+  font-size: 40px;
+  margin-top: 100px;
+}
+
+.Abdullah-profile {
+  width: 160px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 20px;
+}
+
+

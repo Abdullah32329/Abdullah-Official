@@ -1,0 +1,25 @@
+.b-b {
+  background-color: rgb(63, 63, 63);
+  background-image: url(background\ web.png);
+}
+
+.p-p {
+  color: white;
+  font-size: 90px;
+  font-family: arial;
+}
+
+.d-a-p {
+  vertical-align: middle;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.welcome {
+  font-family: arial;
+  font-size: 40px;
+  color: white;
+  height: 65px;
+  background-image: linear-gradient(to right, grey, red, grey);
+}
